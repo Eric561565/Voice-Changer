@@ -1,0 +1,8 @@
+numpy
+librosa
+glob
+soundfile
+scipy
+pyaudio
+tkinter
+threading
