@@ -4,7 +4,7 @@
 透過調整pitch和formant來達到變聲效果
 並同時添加雙音和震音的效果器
 
-使用方法
+使用方法 \n
 在python3.9.18的環境，安裝requirement.txt內的函式庫
 並且執行main.py，即可看到GUI
 GUI可調整volume, pitch, formant的參數，並且有雙音、震音的開關
